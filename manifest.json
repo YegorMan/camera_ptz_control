@@ -1,0 +1,8 @@
+{
+  "domain": "camera_ptz_control",
+  "name": "Camera PTZ Control",
+  "documentation": "https://yegorman.ru",
+  "dependencies": [],
+  "codeowners": ["@yegorman"],
+  "requirements": ["requests==2.22.0"]
+}
